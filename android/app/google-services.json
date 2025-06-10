@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50089283441",
+    "project_id": "selamty",
+    "storage_bucket": "selamty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50089283441:android:2e2822357c081a3306f0d0",
+        "android_client_info": {
+          "package_name": "com.example.selamty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPSGjNkxFrI2d6E54tz422WHbZ_X3UcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
